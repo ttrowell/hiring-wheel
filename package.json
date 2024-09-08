@@ -1,6 +1,5 @@
 {
   "name": "saas-pricing-application",
-  "homepage": "https://saas.rowell.ai/",
   "version": "0.1.0",
   "private": true,
   "scripts": {
