@@ -72,8 +72,9 @@ const HiringWheelPicker = () => {
                 </Button>
                 {selectedOption && (
                     <div className="mt-4 text-xl font-bold">
-                        Selection Made!  {selectedOption} - Tara Rowell!
+                        {selectedOption} - Tara Rowell!
                     </div>
+
                 )}
             </div>
         </div>
